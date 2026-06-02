@@ -1,66 +1,27 @@
 # Olá, eu sou a Ligiani Pucca 👋
 
-🎓 Graduanda em Engenharia de Software
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_SEU_LINKEDIN_AQUI)
 
-☁️ Certificada em Google Cloud Computing Foundations
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ligiani-pucca)
 
-📊 Experiência em Finanças, Recuperação de Crédito e Gestão de Processos
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/8a911413-d100-4cb6-b4f8-6ddca4c68c65)
 
-💡 Apaixonada por tecnologia, dados e transformação digital
+## 🚀 Technologies
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🚀 Sobre mim
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Profissional com sólida experiência nas áreas administrativa, financeira e recuperação de crédito.
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-Atualmente estou ampliando meus conhecimentos em:
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-- Python
-- SQL
-- Power BI
-- Google Cloud
-- Banco de Dados
-- Engenharia de Software
+## 📊 GitHub Statistics
 
-Meu objetivo é unir minha experiência de negócios com soluções tecnológicas orientadas por dados.
+![Ligiani GitHub stats](https://github-readme-stats.vercel.app/api?username=LigianiPucca&show_icons=true&theme=tokyonight)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LigianiPucca&layout=compact&theme=tokyonight)
 
-## 🛠 Tecnologias
 
-- Python
-- SQL
-- Power BI
-- Google Cloud
-- Git
-- GitHub
 
----
 
-## 🎯 Áreas de Interesse
-
-- Análise de Dados
-- Business Intelligence
-- Cloud Computing
-- Automação de Processos
-- Sistemas Financeiros
-
----
-
-## 📜 Certificações
-
-✅ Google Cloud Computing Foundations
-
----
-
-## 🌎 Contato
-
-LinkedIn:
-www.linkedin.com/in/ligianipucca
-
-Credly:
-https://www.credly.com/users/ligiani-pucca
-
-Google Skills:
-https://www.skills.google/public_profiles/8a911413-d100-4cb6-b4f8-6ddca4c68c65
