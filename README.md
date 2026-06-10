@@ -35,7 +35,7 @@ objetivo: >
   com soluções orientadas por dados
   e tecnologia cloud-native
 localização: Brasil 🇧🇷
-status:      Estudando Python, SQL, Power BI & GCP
+status:      Estudando Python, JavaScript, SQL, Power BI & GCP
 ```
 
 ---
