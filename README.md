@@ -11,8 +11,6 @@
 
 <!-- Badges de status -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Da%20análise%20de%20negócios%20à%20tecnologia-aprendizado%20contínuo%20e%20evolução%20constante-6C63FF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Foco-Data%20%26%20Cloud-00D4AA?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20to-Oportunidades-FF6B6B?style=for-the-badge&logoColor=white"/>
 </div>
 
