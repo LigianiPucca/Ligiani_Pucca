@@ -34,7 +34,7 @@ experiência:
               - Área Jurídica
               - Gestão Comercial
 
-objetivo:     Unir experiência de negócios com soluções orientadas por dados e tecnologia cloud-native
+objetivo:     Unir experiência de negócios com soluções orientadas por dados e tecnologia cloud
 
 localização:  Brasil 🇧🇷
 
