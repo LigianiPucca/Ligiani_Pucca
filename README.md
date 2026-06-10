@@ -14,7 +14,7 @@
 
 <!-- Badges de status -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Aprendendo%20sempre-6C63FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Da%20análise%20de%20negócios%20à%20tecnologia-aprendizado%20contínuo%20e%20evolução%20constante-6C63FF?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Foco-Data%20%26%20Cloud-00D4AA?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20to-Oportunidades-FF6B6B?style=for-the-badge&logoColor=white"/>
 </div>
@@ -24,8 +24,6 @@
 ---
 
 ## ✦ Sobre mim
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 ```yaml
 nome:        Ligiani Pucca
@@ -44,8 +42,6 @@ objetivo: >
 localização: Brasil 🇧🇷
 status:      Estudando Python, SQL, Power BI & GCP
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -71,13 +67,14 @@ status:      Estudando Python, SQL, Power BI & GCP
 <div align="center">
 
 ### 💻 Aprendendo & Praticando
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,gcp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,mysql,git,github,vscode,gcp&theme=dark"/>
 
 ### 📊 Business Intelligence & Dados
 <div>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
 ### ☁️ Cloud & Infra
@@ -150,6 +147,7 @@ status:      Estudando Python, SQL, Power BI & GCP
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
+
 
 
 
