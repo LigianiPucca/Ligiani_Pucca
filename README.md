@@ -1,11 +1,10 @@
 <!-- Header animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Unindo+experiência+em+negócios%2C+dados+e+tecnologia;Power+BI+%7C+SQL+%7C+Cloud;Engenharia+de+Software+em+Formação;Aprendizado+contínuo+e+evolução+constante" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ligiani%20Pucca&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engenharia%20de%20Software%20%7C%20Dados%20%7C%20Cloud&descAlignY=52&descSize=16"/>
 </div>
 
-<!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Unindo+experiência+em+negócios%2C+dados+e+tecnologia;Power+BI+%7C+SQL+%7C+Cloud+Computing;Engenharia+de+Software+em+Formação;Aprendizado+contínuo+e+evolução+constante" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Unindo+experiência+em+negócios%2C+dados+e+tecnologia;Power+BI+%7C+SQL+%7C+Cloud;Engenharia+de+Software+em+Formação;Aprendizado+contínuo+e+evolução+constante" />
 </div>
 
 <br/>
