@@ -3,17 +3,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ligiani%20Pucca&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engenharia%20de%20Software%20%7C%20Dados%20%7C%20Cloud&descAlignY=52&descSize=16"/>
 </div>
 
+<!-- Typing SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Unindo+experiência+em+negócios%2C+dados+e+tecnologia;Power+BI+%7C+SQL+%7C+Cloud;Engenharia+de+Software+em+Formação;Aprendizado+contínuo+e+evolução+constante" />
 </div>
 
 <br/>
 
-## 💻 Stack & Tecnologias
 <!-- Badges de status -->
 <div align="center">
+  <img src="https://img.shields.io/badge/Da%20análise%20de%20negócios%20à%20tecnologia-Aprendizado%20Contínuo-6C63FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Foco-Data%20%26%20Cloud-00D4AA?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20to-Oportunidades-FF6B6B?style=for-the-badge&logoColor=white"/>
 </div>
+
+<br/>
 
 <br/>
 
