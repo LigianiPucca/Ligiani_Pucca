@@ -19,8 +19,6 @@
 
 <br/>
 
-<br/>
-
 ---
 
 ## ✦ Sobre mim
@@ -49,7 +47,7 @@ status:       Estudando Python, JavaScript, SQL, Power BI & GCP
 
 ---
 
-##  Estatísticas GitHub
+## 📊 Estatísticas GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ligianipucca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4AA&text_color=c9d1d9"/>
@@ -62,19 +60,18 @@ status:       Estudando Python, JavaScript, SQL, Power BI & GCP
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ligianipucca&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-  
 </div>
 
 ---
 
-##  Stack & Tecnologias
+## 💻 Stack & Tecnologias
 
 <div align="center">
 
-###  Aprendendo & Praticando
+### Aprendendo e Praticando
 <img src="https://skillicons.dev/icons?i=python,javascript,mysql,git,github,vscode,gcp&theme=dark"/>
 
-###  Business Intelligence & Dados
+### Inteligencia de Negocios e Dados
 <div>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -82,13 +79,13 @@ status:       Estudando Python, JavaScript, SQL, Power BI & GCP
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-###  Cloud & Infra
+### Nuvem e Infraestrutura
 <div>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 </div>
 
-###  Versionamento
+### Versionamento
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -98,27 +95,27 @@ status:       Estudando Python, JavaScript, SQL, Power BI & GCP
 
 ---
 
-##  Áreas de Interesse
+## 🎯 Areas de Interesse
 
 <div align="center">
 
-| 📈 Análise de Dados | ☁️ Cloud Computing | 🤖 Automação |
+| Analise de Dados | Cloud Computing | Automacao |
 |:---:|:---:|:---:|
-| Transformar dados brutos em insights acionáveis | Soluções escaláveis na nuvem | Eliminar processos manuais com código |
+| Transformar dados brutos em insights acionaveis | Solucoes escalaveis na nuvem | Eliminar processos manuais com codigo |
 
-| 💰 Sistemas Financeiros | 📊 Business Intelligence | 🔄 Transformação Digital |
+| Sistemas Financeiros | Business Intelligence | Transformacao Digital |
 |:---:|:---:|:---:|
-| Recuperação de crédito orientada por dados | Dashboards e relatórios estratégicos | Modernizar operações com tecnologia |
+| Recuperacao de credito orientada por dados | Dashboards e relatorios estrategicos | Modernizar operacoes com tecnologia |
 
 </div>
 
 ---
 
-##  Certificações
+## 📜 Certificacoes
 
 <div align="center">
 
-[![Google Cloud](https://img.shields.io/badge/✅%20Google%20Cloud%20Computing%20Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/users/ligiani-pucca)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Computing%20Foundations-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/users/ligiani-pucca)
 
 <a href="https://www.credly.com/users/ligiani-pucca">
   <img src="https://img.shields.io/badge/Ver%20badges%20no%20Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white"/>
@@ -136,7 +133,7 @@ status:       Estudando Python, JavaScript, SQL, Power BI & GCP
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ligiani%20Pucca-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ligianipucca)
-[![Credly](https://img.shields.io/badge/Credly-Certificações-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ligiani-pucca)
+[![Credly](https://img.shields.io/badge/Credly-Certificacoes-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ligiani-pucca)
 [![Google Skills](https://img.shields.io/badge/Google%20Skills-Perfil-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/8a911413-d100-4cb6-b4f8-6ddca4c68c65)
 
 </div>
