@@ -9,6 +9,7 @@
 
 <br/>
 
+## 💻 Stack & Tecnologias
 <!-- Badges de status -->
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to-Oportunidades-FF6B6B?style=for-the-badge&logoColor=white"/>
